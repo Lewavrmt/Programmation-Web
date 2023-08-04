@@ -1,0 +1,50 @@
+[
+    {
+        "type": "CM",
+        "matiere": "IAS",
+        "enseignant": "Landes",
+        "salle": "G Amphi",
+        "date": "2023-05-05",
+        "heureDebut": "08:00",
+        "heureFin": "10:00",
+        "groupes": [
+            "groupe 1"
+        ]
+    },
+    {
+        "type": "CM",
+        "matiere": "IAS",
+        "enseignant": "Landes",
+        "salle": "G Amphi",
+        "date": "2023-05-05",
+        "heureDebut": "08:30",
+        "heureFin": "10:00",
+        "groupes": [
+            "groupe 1"
+        ]
+    },
+    {
+        "type": "CM",
+        "matiere": "IAS",
+        "enseignant": "Landes",
+        "salle": "G Amphi",
+        "date": "2023-05-05",
+        "heureDebut": "08:00",
+        "heureFin": "09:00",
+        "groupes": [
+            "groupe 1"
+        ]
+    },
+    {
+        "type": "TP",
+        "matiere": "EPS",
+        "enseignant": "Balout",
+        "salle": "Gym",
+        "date": "2023-05-01",
+        "heureDebut": "08:00",
+        "heureFin": "09:00",
+        "groupes": [
+            "groupe 2"
+        ]
+    }
+]

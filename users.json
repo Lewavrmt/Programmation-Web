@@ -1,0 +1,18 @@
+[
+    
+    {
+        "username": "lewa",
+        "password": "$2y$10$jIoo6vOvjfwgLsKMnfOjiuSfwJgUyepbhWFl4yBhcLNTMBhO5Q38K",
+        "role": "coordinateur"
+    },
+    {
+        "username": "Walid",
+        "password": "$2y$10$mOQezJoImUGoaCUjqYXoAeCaasX0F0INYX6h\/ug1lRi.HiJrEP49i",
+        "role": "etudiant"
+    },
+    {
+        "username": "so",
+        "password": "$2y$10$f6CopN7V2LLdFZQnBy9UkudcNOea00V6dGuCfjsVNKparAHEABHZC",
+        "role": "responsable"
+    }
+]
